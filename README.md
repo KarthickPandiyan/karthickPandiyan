@@ -2,7 +2,7 @@
 
 # Welcome to my github home!👋 
 
-### What i do? I am a 🚀 Data & DevOps Engineer | Building Scalable Solutions
+### What i do? I am a 🚀 Data Engineering | Building Scalable Solutions
 
 ### 🔭 My current Focus and Efforts  
 - 🚀 Enhancing and optimizing **big data pipelines** to process and analyze large-scale datasets efficiently.  
