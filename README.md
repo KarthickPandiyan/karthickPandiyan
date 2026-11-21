@@ -6,11 +6,8 @@
 
 ### 🔭 My current Focus and Efforts  
 - 🚀 Enhancing and optimizing **big data pipelines** to process and analyze large-scale datasets efficiently.  
-- 🛠️ Deepening my understanding of **containerization** by deploying applications using **Docker** and **Kubernetes** to achieve scalability and reliability.  
-- 🌐 Leveraging **Terraform** and **Ansible** to provision and manage infrastructure effectively, ensuring seamless automation.  
-- ☁️ Exploring advanced use cases in **cloud platforms** (AWS, Azure) for designing and deploying resilient, cost-effective solutions.  
-- 🔍 Continuously improving my expertise in orchestrating and managing containerized environments to streamline application delivery.
-
+- ☁️ Exploring advanced use cases in **cloud platforms** (AWS, Azure) for designing and deploying resilient, cost-effective solutions.
+- 
 ### 🔧 Technologies I Work With
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Spark](https://img.shields.io/badge/Apache%20Spark-ff6f00?logo=apache-spark&logoColor=ffffff)  
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apache-hadoop&logoColor=white) ![Hive](https://img.shields.io/badge/Apache%20Hive-f7931e?logo=apache-hive&logoColor=ffffff)  
